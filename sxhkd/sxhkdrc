@@ -122,8 +122,8 @@ super + {Left,Down,Up,Right}
 
 #Sound Controls
 XF86AudioLowerVolume
-	amixer -q sset Master 5%- unmute
+	pulseaudio-ctl down
 XF86AudioRaiseVolume
-	amixer -D default sset Master 5%+ unmute
+	pulseaudio-ctl up
 XF86AudioMute
 	pulseaudio-ctl mute
