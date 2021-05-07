@@ -5,7 +5,6 @@
 **For Shell:**
 | Package                                                  | Description                                                      |
 |----------------------------------------------------------|------------------------------------------------------------------|
-| [Arch Linux](https://www.archlinux.org/)                 | The best distro ever!                                            |
 | [Fish](https://github.com/fish-shell/fish-shell)                  | The most powerful shell out there!                               |
 | [Starship](https://starship.rs/) | Beautiful and detailed shell prompt for any shell!                 |
 | [Neofetch](https://github.com/dylanaraps/neofetch)       | The Most detailed system info script                   |
